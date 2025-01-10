@@ -2,7 +2,7 @@
   <strong>TelephonyClient: Service telephony clients connecting via sockets.</strong>
 
   @version 	0.2, 03/11/2001
-  @author 	Ronald D. Redmer (rxredmer@affina.com)
+  @author 	Ronald D. Redmer (rxredmer@Tpg.com)
   @since	0.0
 */
 package jserver;

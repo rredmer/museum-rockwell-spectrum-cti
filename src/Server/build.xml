@@ -127,7 +127,7 @@
      the deployment home directory.
 
      In the future (ant ver1.2), javadoc will look more like this:
-  <javadoc packagenames="com.affina.droid.*"
+  <javadoc packagenames="com.Tpg.droid.*"
            sourcepath="src"
            destdir="docs/api"
            author="true"
@@ -135,7 +135,7 @@
            use="true"
            windowtitle="Droid API"
            doctitle="<h1>Droid</h1>"
-           bottom="<i>Copyright (C); 2000 AFFINA Corp. All Rights Reserved.</i>">
+           bottom="<i>Copyright (C); 2000 Tpg Corp. All Rights Reserved.</i>">
   </javadoc>
 
 -->
