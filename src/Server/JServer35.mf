@@ -1,0 +1,1300 @@
+Manifest-Version: 1.0
+Main-Class: jserver.TelephonyApp
+
+Name: com/borland/dx/dataset/AccessEvent.class
+
+Name: com/borland/dx/dataset/AccessListener.class
+
+Name: com/borland/dx/dataset/AggDescriptor.class
+
+Name: com/borland/dx/dataset/AggManager.class
+
+Name: com/borland/dx/dataset/AggOperator.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/CalcAggFieldsListener.class
+
+Name: com/borland/dx/dataset/CalcFieldsListener.class
+
+Name: com/borland/dx/dataset/CoerceFromListener.class
+
+Name: com/borland/dx/dataset/CoerceToListener.class
+
+Name: com/borland/dx/dataset/Coercer.class
+
+Name: com/borland/dx/dataset/Column.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/ColumnChangeListener.class
+
+Name: com/borland/dx/dataset/ColumnDesigner.class
+
+Name: com/borland/dx/dataset/ColumnList.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/CustomAggOperator.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/DataChangeEvent.class
+
+Name: com/borland/dx/dataset/DataChangeListener.class
+
+Name: com/borland/dx/dataset/DataFile.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/DataIndex.class
+
+Name: com/borland/dx/dataset/DataRow.class
+
+Name: com/borland/dx/dataset/DataSet.class
+
+Name: com/borland/dx/dataset/DataSetException.class
+
+Name: com/borland/dx/dataset/DataSetView.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/Designable.class
+
+Name: com/borland/dx/dataset/DirectIndex.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/EditListener.class
+
+Name: com/borland/dx/dataset/Index.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/IndexData.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/InternalRow.class
+
+Name: com/borland/dx/dataset/LoadCancel.class
+
+Name: com/borland/dx/dataset/LoadEvent.class
+
+Name: com/borland/dx/dataset/LoadListener.class
+
+Name: com/borland/dx/dataset/LoadRowListener.class
+
+Name: com/borland/dx/dataset/MasterLinkDescriptor.class
+
+Name: com/borland/dx/dataset/MasterNavigateEvent.class
+
+Name: com/borland/dx/dataset/MasterNavigateListener.class
+
+Name: com/borland/dx/dataset/MasterUpdateEvent.class
+
+Name: com/borland/dx/dataset/MasterUpdateListener.class
+
+Name: com/borland/dx/dataset/MatrixData.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/NavigationEvent.class
+
+Name: com/borland/dx/dataset/NavigationListener.class
+
+Name: com/borland/dx/dataset/OpenListener.class
+
+Name: com/borland/dx/dataset/PickListDescriptor.class
+
+Name: com/borland/dx/dataset/Provider.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/ProviderHelp.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/ReadRow.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/ReadWriteRow.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/Res.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/Resolver.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/ResolverListener.class
+
+Name: com/borland/dx/dataset/ResolverResponse.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/RowFilterListener.class
+
+Name: com/borland/dx/dataset/RowFilterResponse.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/RowIterator.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/RowVariant.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/SortDescriptor.class
+
+Name: com/borland/dx/dataset/StatusEvent.class
+
+Name: com/borland/dx/dataset/StatusListener.class
+
+Name: com/borland/dx/dataset/StorageDataSet.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/Store.class
+
+Name: com/borland/dx/dataset/StoreInternals.class
+
+Name: com/borland/dx/dataset/TableDataSet.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/ValidationException.class
+
+Name: com/borland/dx/dataset/Variant.class
+Java-Bean: True
+
+Name: com/borland/dx/dataset/VariantException.class
+
+Name: com/borland/dx/dataset/b.class
+
+Name: com/borland/dx/dataset/d.class
+
+Name: com/borland/dx/dataset/e.class
+
+Name: com/borland/dx/dataset/f.class
+
+Name: com/borland/dx/dataset/h.class
+
+Name: com/borland/dx/memorystore/MemoryData.class
+
+Name: com/borland/dx/memorystore/MemoryStore.class
+Java-Bean: True
+
+Name: com/borland/dx/memorystore/a.class
+
+Name: com/borland/dx/memorystore/b.class
+
+Name: com/borland/dx/memorystore/c.class
+
+Name: com/borland/dx/memorystore/d.class
+
+Name: com/borland/dx/memorystore/e.class
+
+Name: com/borland/dx/memorystore/f.class
+
+Name: com/borland/dx/memorystore/g.class
+
+Name: com/borland/dx/memorystore/h.class
+
+Name: com/borland/dx/memorystore/i.class
+
+Name: com/borland/dx/memorystore/j.class
+
+Name: com/borland/dx/memorystore/k.class
+
+Name: com/borland/dx/memorystore/l.class
+
+Name: com/borland/dx/memorystore/m.class
+
+Name: com/borland/dx/memorystore/n.class
+
+Name: com/borland/dx/memorystore/o.class
+
+Name: com/borland/dx/memorystore/p.class
+
+Name: com/borland/dx/memorystore/q.class
+
+Name: com/borland/dx/memorystore/r.class
+
+Name: com/borland/dx/memorystore/s.class
+
+Name: com/borland/dx/memorystore/t.class
+
+Name: com/borland/dx/memorystore/u.class
+
+Name: com/borland/dx/memorystore/v.class
+
+Name: com/borland/dx/sql/dataset/ConnectionDescriptor.class
+
+Name: com/borland/dx/sql/dataset/ConnectionUpdateEvent.class
+
+Name: com/borland/dx/sql/dataset/ConnectionUpdateListener.class
+
+Name: com/borland/dx/sql/dataset/Database.class
+Java-Bean: True
+
+Name: com/borland/dx/sql/dataset/DefaultResolver.class
+
+Name: com/borland/dx/sql/dataset/DesignerConnectionCache.class
+
+Name: com/borland/dx/sql/dataset/JdbcProvider.class
+Java-Bean: True
+
+Name: com/borland/dx/sql/dataset/QueryDataSet.class
+Java-Bean: True
+
+Name: com/borland/dx/sql/dataset/QueryDescriptor.class
+
+Name: com/borland/dx/sql/dataset/QueryProvider.class
+Java-Bean: True
+
+Name: com/borland/dx/sql/dataset/QueryResolver.class
+Java-Bean: True
+
+Name: com/borland/dx/sql/dataset/Res.class
+Java-Bean: True
+
+Name: com/borland/dx/sql/dataset/ResolutionException.class
+
+Name: com/borland/dx/sql/dataset/ResolutionManager.class
+Java-Bean: True
+
+Name: com/borland/dx/sql/dataset/ResolveError.class
+Java-Bean: True
+
+Name: com/borland/dx/sql/dataset/RuntimeMetaData.class
+
+Name: com/borland/dx/sql/dataset/SQLElement.class
+
+Name: com/borland/dx/sql/dataset/SQLResolutionManager.class
+Java-Bean: True
+
+Name: com/borland/dx/sql/dataset/SQLResolver.class
+Java-Bean: True
+
+Name: com/borland/dx/sql/dataset/TransactionSupport.class
+
+Name: com/borland/dx/sql/dataset/UniqueQueryAnalyzer.class
+
+Name: com/borland/dx/sql/dataset/a.class
+
+Name: com/borland/dx/sql/dataset/b.class
+
+Name: com/borland/dx/sql/dataset/c.class
+
+Name: com/borland/dx/sql/dataset/d.class
+
+Name: com/borland/dx/sql/dataset/e.class
+
+Name: com/borland/dx/sql/dataset/f.class
+
+Name: com/borland/dx/sql/dataset/g.class
+
+Name: com/borland/dx/sql/dataset/h.class
+
+Name: com/borland/dx/sql/dataset/i.class
+
+Name: com/borland/dx/sql/dataset/j.class
+
+Name: com/borland/dx/sql/dataset/k.class
+
+Name: com/borland/dx/sql/dataset/l.class
+
+Name: com/borland/dx/sql/dataset/m.class
+
+Name: com/borland/dx/sql/dataset/n.class
+
+Name: com/borland/dx/sql/dataset/q.class
+
+Name: com/borland/dx/sql/dataset/r.class
+
+Name: com/borland/dx/swing/PasswordDialog.class
+
+Name: com/borland/dx/swing/Res.class
+Java-Bean: True
+
+Name: com/borland/dx/text/BigDecimalFormatter.class
+
+Name: com/borland/dx/text/BinaryFormatter.class
+Java-Bean: True
+
+Name: com/borland/dx/text/BooleanFormat.class
+Java-Bean: True
+
+Name: com/borland/dx/text/BooleanFormatter.class
+Java-Bean: True
+
+Name: com/borland/dx/text/ByteFormatter.class
+
+Name: com/borland/dx/text/DateFormatter.class
+Java-Bean: True
+
+Name: com/borland/dx/text/DoubleFormatter.class
+
+Name: com/borland/dx/text/IntegerFormatter.class
+
+Name: com/borland/dx/text/InvalidFormatException.class
+
+Name: com/borland/dx/text/ItemEditMask.class
+
+Name: com/borland/dx/text/ItemEditMaskChar.class
+
+Name: com/borland/dx/text/ItemEditMaskRegion.class
+
+Name: com/borland/dx/text/ItemEditMaskRegionChar.class
+
+Name: com/borland/dx/text/ItemEditMaskState.class
+Java-Bean: True
+
+Name: com/borland/dx/text/ItemEditMaskStr.class
+
+Name: com/borland/dx/text/ItemFormatter.class
+Java-Bean: True
+
+Name: com/borland/dx/text/LongFormatter.class
+Java-Bean: True
+
+Name: com/borland/dx/text/ObjectFormatter.class
+Java-Bean: True
+
+Name: com/borland/dx/text/Res.class
+Java-Bean: True
+
+Name: com/borland/dx/text/ShortFormatter.class
+
+Name: com/borland/dx/text/StringFormatter.class
+Java-Bean: True
+
+Name: com/borland/dx/text/TextFormat.class
+Java-Bean: True
+
+Name: com/borland/dx/text/TimeFormatter.class
+Java-Bean: True
+
+Name: com/borland/dx/text/TimestampFormatter.class
+Java-Bean: True
+
+Name: com/borland/dx/text/VariantFormatStr.class
+
+Name: com/borland/dx/text/VariantFormatter.class
+Java-Bean: True
+
+Name: com/borland/dx/text/a.class
+
+Name: com/borland/dx/text/ab.class
+
+Name: com/borland/dx/text/b.class
+
+Name: com/borland/dx/text/bb.class
+
+Name: com/borland/dx/text/c.class
+
+Name: com/borland/dx/text/d.class
+
+Name: com/borland/dx/text/db.class
+
+Name: com/borland/dx/text/e.class
+
+Name: com/borland/dx/text/eb.class
+
+Name: com/borland/dx/text/f.class
+
+Name: com/borland/dx/text/fb.class
+
+Name: com/borland/dx/text/g.class
+
+Name: com/borland/dx/text/gb.class
+
+Name: com/borland/dx/text/h.class
+
+Name: com/borland/dx/text/hb.class
+
+Name: com/borland/dx/text/i.class
+
+Name: com/borland/dx/text/j.class
+
+Name: com/borland/dx/text/k.class
+
+Name: com/borland/dx/text/l.class
+
+Name: com/borland/dx/text/m.class
+
+Name: com/borland/dx/text/n.class
+
+Name: com/borland/dx/text/o.class
+
+Name: com/borland/dx/text/p.class
+
+Name: com/borland/dx/text/q.class
+
+Name: com/borland/dx/text/r.class
+
+Name: com/borland/dx/text/s.class
+
+Name: com/borland/dx/text/t.class
+
+Name: com/borland/dx/text/u.class
+
+Name: com/borland/dx/text/v.class
+
+Name: com/borland/dx/text/w.class
+
+Name: com/borland/dx/text/x.class
+
+Name: com/borland/dx/text/y.class
+
+Name: com/borland/dx/text/z.class
+
+Name: com/borland/jb/io/InputStreamToByteArray.class
+
+Name: com/borland/jb/util/ChainedException.class
+
+Name: com/borland/jb/util/DispatchableEvent.class
+
+Name: com/borland/jb/util/ErrorResponse.class
+Java-Bean: True
+
+Name: com/borland/jb/util/EventMulticaster.class
+Java-Bean: True
+
+Name: com/borland/jb/util/ExceptionChain.class
+Java-Bean: True
+
+Name: com/borland/jb/util/ExceptionDispatch.class
+
+Name: com/borland/jb/util/FastStringBuffer.class
+Java-Bean: True
+
+Name: com/borland/jb/util/Hex.class
+Java-Bean: True
+
+Name: com/borland/jb/util/LocaleUtil.class
+Java-Bean: True
+
+Name: com/borland/jb/util/StringArrayResourceBundle.class
+Java-Bean: True
+
+Name: com/borland/jb/util/VetoException.class
+Java-Bean: True
+
+Name: com/borland/jb/util/VetoableDispatch.class
+
+Name: com/borland/jbcl/layout/XYConstraints.class
+Java-Bean: True
+
+Name: com/borland/jbcl/layout/XYLayout.class
+Java-Bean: True
+
+Name: com/borland/sql/SQLAdapter.class
+
+Name: javax/accessibility/Accessible.class
+
+Name: javax/accessibility/AccessibleAction.class
+
+Name: javax/accessibility/AccessibleBundle.class
+Java-Bean: True
+
+Name: javax/accessibility/AccessibleComponent.class
+
+Name: javax/accessibility/AccessibleContext.class
+Java-Bean: True
+
+Name: javax/accessibility/AccessibleRole.class
+
+Name: javax/accessibility/AccessibleSelection.class
+
+Name: javax/accessibility/AccessibleState.class
+
+Name: javax/accessibility/AccessibleStateSet.class
+Java-Bean: True
+
+Name: javax/accessibility/AccessibleText.class
+
+Name: javax/accessibility/AccessibleValue.class
+
+Name: javax/swing/border/AbstractBorder.class
+Java-Bean: True
+
+Name: javax/swing/border/Border.class
+
+Name: javax/swing/border/CompoundBorder.class
+Java-Bean: True
+
+Name: javax/swing/border/TitledBorder.class
+
+Name: javax/swing/event/AncestorEvent.class
+
+Name: javax/swing/event/AncestorListener.class
+
+Name: javax/swing/event/CaretEvent.class
+
+Name: javax/swing/event/CaretListener.class
+
+Name: javax/swing/event/ChangeEvent.class
+
+Name: javax/swing/event/ChangeListener.class
+
+Name: javax/swing/event/DocumentEvent.class
+
+Name: javax/swing/event/DocumentEvent$ElementChange.class
+
+Name: javax/swing/event/DocumentEvent$EventType.class
+
+Name: javax/swing/event/DocumentListener.class
+
+Name: javax/swing/event/EventListenerList.class
+Java-Bean: True
+
+Name: javax/swing/event/InternalFrameEvent.class
+
+Name: javax/swing/event/InternalFrameListener.class
+
+Name: javax/swing/event/MenuDragMouseEvent.class
+
+Name: javax/swing/event/MenuDragMouseListener.class
+
+Name: javax/swing/event/MenuEvent.class
+
+Name: javax/swing/event/MenuKeyEvent.class
+
+Name: javax/swing/event/MenuKeyListener.class
+
+Name: javax/swing/event/MenuListener.class
+
+Name: javax/swing/event/PopupMenuEvent.class
+
+Name: javax/swing/event/PopupMenuListener.class
+
+Name: javax/swing/event/SwingPropertyChangeSupport.class
+
+Name: javax/swing/event/UndoableEditEvent.class
+
+Name: javax/swing/event/UndoableEditListener.class
+
+Name: javax/swing/plaf/ButtonUI.class
+Java-Bean: True
+
+Name: javax/swing/plaf/ComponentUI.class
+Java-Bean: True
+
+Name: javax/swing/plaf/DesktopIconUI.class
+Java-Bean: True
+
+Name: javax/swing/plaf/DesktopPaneUI.class
+Java-Bean: True
+
+Name: javax/swing/plaf/IconUIResource.class
+
+Name: javax/swing/plaf/InternalFrameUI.class
+Java-Bean: True
+
+Name: javax/swing/plaf/LabelUI.class
+Java-Bean: True
+
+Name: javax/swing/plaf/MenuBarUI.class
+Java-Bean: True
+
+Name: javax/swing/plaf/MenuItemUI.class
+Java-Bean: True
+
+Name: javax/swing/plaf/OptionPaneUI.class
+Java-Bean: True
+
+Name: javax/swing/plaf/PanelUI.class
+Java-Bean: True
+
+Name: javax/swing/plaf/PopupMenuUI.class
+Java-Bean: True
+
+Name: javax/swing/plaf/SeparatorUI.class
+Java-Bean: True
+
+Name: javax/swing/plaf/TextUI.class
+Java-Bean: True
+
+Name: javax/swing/plaf/ToolTipUI.class
+Java-Bean: True
+
+Name: javax/swing/plaf/UIResource.class
+
+Name: javax/swing/text/AbstractDocument.class
+
+Name: javax/swing/text/AbstractDocument$1.class
+
+Name: javax/swing/text/AbstractDocument$AbstractElement.class
+
+Name: javax/swing/text/AbstractDocument$AttributeContext.class
+
+Name: javax/swing/text/AbstractDocument$BidiElement.class
+
+Name: javax/swing/text/AbstractDocument$BidiRootElement.class
+
+Name: javax/swing/text/AbstractDocument$BranchElement.class
+
+Name: javax/swing/text/AbstractDocument$Content.class
+
+Name: javax/swing/text/AbstractDocument$DefaultDocumentEvent.class
+
+Name: javax/swing/text/AbstractDocument$ElementEdit.class
+
+Name: javax/swing/text/AbstractDocument$LeafElement.class
+
+Name: javax/swing/text/AttributeSet.class
+
+Name: javax/swing/text/AttributeSet$CharacterAttribute.class
+
+Name: javax/swing/text/AttributeSet$ColorAttribute.class
+
+Name: javax/swing/text/AttributeSet$FontAttribute.class
+
+Name: javax/swing/text/AttributeSet$ParagraphAttribute.class
+
+Name: javax/swing/text/BadLocationException.class
+
+Name: javax/swing/text/Bidi.class
+
+Name: javax/swing/text/Caret.class
+
+Name: javax/swing/text/DefaultCaret.class
+Java-Bean: True
+
+Name: javax/swing/text/DefaultCaret$1.class
+
+Name: javax/swing/text/DefaultCaret$FocusHandler.class
+
+Name: javax/swing/text/DefaultCaret$SafeScroller.class
+
+Name: javax/swing/text/DefaultCaret$UpdateHandler.class
+
+Name: javax/swing/text/DefaultEditorKit.class
+Java-Bean: True
+
+Name: javax/swing/text/DefaultEditorKit$BeepAction.class
+Java-Bean: True
+
+Name: javax/swing/text/DefaultEditorKit$BeginAction.class
+
+Name: javax/swing/text/DefaultEditorKit$BeginLineAction.class
+
+Name: javax/swing/text/DefaultEditorKit$BeginParagraphAction.class
+
+Name: javax/swing/text/DefaultEditorKit$BeginWordAction.class
+
+Name: javax/swing/text/DefaultEditorKit$CopyAction.class
+Java-Bean: True
+
+Name: javax/swing/text/DefaultEditorKit$CutAction.class
+Java-Bean: True
+
+Name: javax/swing/text/DefaultEditorKit$DefaultKeyTypedAction.class
+Java-Bean: True
+
+Name: javax/swing/text/DefaultEditorKit$DeleteNextCharAction.class
+
+Name: javax/swing/text/DefaultEditorKit$DeletePrevCharAction.class
+
+Name: javax/swing/text/DefaultEditorKit$DumpModelAction.class
+
+Name: javax/swing/text/DefaultEditorKit$EndAction.class
+
+Name: javax/swing/text/DefaultEditorKit$EndLineAction.class
+
+Name: javax/swing/text/DefaultEditorKit$EndParagraphAction.class
+
+Name: javax/swing/text/DefaultEditorKit$EndWordAction.class
+
+Name: javax/swing/text/DefaultEditorKit$InsertBreakAction.class
+Java-Bean: True
+
+Name: javax/swing/text/DefaultEditorKit$InsertContentAction.class
+Java-Bean: True
+
+Name: javax/swing/text/DefaultEditorKit$InsertTabAction.class
+Java-Bean: True
+
+Name: javax/swing/text/DefaultEditorKit$NextVisualPositionAction.class
+
+Name: javax/swing/text/DefaultEditorKit$NextWordAction.class
+
+Name: javax/swing/text/DefaultEditorKit$PageDownAction.class
+
+Name: javax/swing/text/DefaultEditorKit$PageUpAction.class
+
+Name: javax/swing/text/DefaultEditorKit$PasteAction.class
+Java-Bean: True
+
+Name: javax/swing/text/DefaultEditorKit$PreviousWordAction.class
+
+Name: javax/swing/text/DefaultEditorKit$ReadOnlyAction.class
+
+Name: javax/swing/text/DefaultEditorKit$SelectAllAction.class
+
+Name: javax/swing/text/DefaultEditorKit$SelectLineAction.class
+
+Name: javax/swing/text/DefaultEditorKit$SelectParagraphAction.class
+
+Name: javax/swing/text/DefaultEditorKit$SelectWordAction.class
+
+Name: javax/swing/text/DefaultEditorKit$UnselectAction.class
+
+Name: javax/swing/text/DefaultEditorKit$WritableAction.class
+
+Name: javax/swing/text/DefaultHighlighter.class
+Java-Bean: True
+
+Name: javax/swing/text/DefaultHighlighter$DefaultHighlightPainter.class
+
+Name: javax/swing/text/DefaultHighlighter$HighlightInfo.class
+
+Name: javax/swing/text/DefaultHighlighter$LayeredHighlightInfo.class
+
+Name: javax/swing/text/Document.class
+
+Name: javax/swing/text/EditorKit.class
+Java-Bean: True
+
+Name: javax/swing/text/Element.class
+
+Name: javax/swing/text/GapContent.class
+Java-Bean: True
+
+Name: javax/swing/text/GapContent$InsertUndo.class
+
+Name: javax/swing/text/GapContent$MarkData.class
+
+Name: javax/swing/text/GapContent$MarkVector.class
+
+Name: javax/swing/text/GapContent$RemoveUndo.class
+
+Name: javax/swing/text/GapContent$StickyPosition.class
+
+Name: javax/swing/text/GapContent$UndoPosRef.class
+
+Name: javax/swing/text/GapVector.class
+
+Name: javax/swing/text/Highlighter.class
+
+Name: javax/swing/text/Highlighter$Highlight.class
+
+Name: javax/swing/text/Highlighter$HighlightPainter.class
+
+Name: javax/swing/text/JTextComponent.class
+Java-Bean: True
+
+Name: javax/swing/text/JTextComponent$1.class
+
+Name: javax/swing/text/JTextComponent$AccessibleJTextComponent.class
+
+Name: javax/swing/text/JTextComponent$ClipboardObserver.class
+
+Name: javax/swing/text/JTextComponent$ComposedTextCaret.class
+
+Name: javax/swing/text/JTextComponent$DefaultKeymap.class
+
+Name: javax/swing/text/JTextComponent$DoSetCaretPosition.class
+
+Name: javax/swing/text/JTextComponent$FocusAction.class
+
+Name: javax/swing/text/JTextComponent$InputMethodRequestsHandler.class
+
+Name: javax/swing/text/JTextComponent$KeyBinding.class
+
+Name: javax/swing/text/JTextComponent$MutableCaretEvent.class
+
+Name: javax/swing/text/Keymap.class
+
+Name: javax/swing/text/LayeredHighlighter.class
+Java-Bean: True
+
+Name: javax/swing/text/LayeredHighlighter$LayerPainter.class
+Java-Bean: True
+
+Name: javax/swing/text/MutableAttributeSet.class
+
+Name: javax/swing/text/PlainDocument.class
+Java-Bean: True
+
+Name: javax/swing/text/Position.class
+
+Name: javax/swing/text/Position$Bias.class
+
+Name: javax/swing/text/RLEUtilities.class
+
+Name: javax/swing/text/Segment.class
+Java-Bean: True
+
+Name: javax/swing/text/SimpleAttributeSet.class
+Java-Bean: True
+
+Name: javax/swing/text/SimpleAttributeSet$EmptyAttributeSet.class
+
+Name: javax/swing/text/StateInvariantError.class
+
+Name: javax/swing/text/Style.class
+
+Name: javax/swing/text/StyleConstants.class
+
+Name: javax/swing/text/StyleConstants$CharacterConstants.class
+
+Name: javax/swing/text/StyleConstants$ColorConstants.class
+
+Name: javax/swing/text/StyleConstants$FontConstants.class
+
+Name: javax/swing/text/StyleConstants$ParagraphConstants.class
+
+Name: javax/swing/text/StyleContext.class
+Java-Bean: True
+
+Name: javax/swing/text/StyleContext$1.class
+
+Name: javax/swing/text/StyleContext$FontKey.class
+
+Name: javax/swing/text/StyleContext$KeyBuilder.class
+
+Name: javax/swing/text/StyleContext$KeyEnumeration.class
+
+Name: javax/swing/text/StyleContext$NamedStyle.class
+
+Name: javax/swing/text/StyleContext$SmallAttributeSet.class
+
+Name: javax/swing/text/StyledDocument.class
+
+Name: javax/swing/text/TabExpander.class
+
+Name: javax/swing/text/TabSet.class
+
+Name: javax/swing/text/TabStop.class
+
+Name: javax/swing/text/TextAction.class
+
+Name: javax/swing/text/Utilities.class
+Java-Bean: True
+
+Name: javax/swing/text/View.class
+
+Name: javax/swing/tree/DefaultMutableTreeNode.class
+Java-Bean: True
+
+Name: javax/swing/tree/DefaultMutableTreeNode$1.class
+
+Name: javax/swing/tree/DefaultMutableTreeNode$BreadthFirstEnumeration.class
+
+Name: javax/swing/tree/DefaultMutableTreeNode$BreadthFirstEnumeration$Queue.class
+
+Name: javax/swing/tree/DefaultMutableTreeNode$BreadthFirstEnumeration$Queue$QNode.class
+
+Name: javax/swing/tree/DefaultMutableTreeNode$PathBetweenNodesEnumeration.class
+
+Name: javax/swing/tree/DefaultMutableTreeNode$PostorderEnumeration.class
+
+Name: javax/swing/tree/DefaultMutableTreeNode$PreorderEnumeration.class
+
+Name: javax/swing/tree/MutableTreeNode.class
+
+Name: javax/swing/tree/TreeNode.class
+
+Name: javax/swing/undo/AbstractUndoableEdit.class
+Java-Bean: True
+
+Name: javax/swing/undo/CannotRedoException.class
+Java-Bean: True
+
+Name: javax/swing/undo/CannotUndoException.class
+Java-Bean: True
+
+Name: javax/swing/undo/CompoundEdit.class
+Java-Bean: True
+
+Name: javax/swing/undo/UndoableEdit.class
+
+Name: javax/swing/AbstractAction.class
+Java-Bean: True
+
+Name: javax/swing/AbstractAction$ArrayTable.class
+
+Name: javax/swing/AbstractButton.class
+Java-Bean: True
+
+Name: javax/swing/AbstractButton$1.class
+
+Name: javax/swing/AbstractButton$AccessibleAbstractButton.class
+
+Name: javax/swing/AbstractButton$ButtonChangeListener.class
+
+Name: javax/swing/AbstractButton$ForwardActionEvents.class
+
+Name: javax/swing/AbstractButton$ForwardItemEvents.class
+
+Name: javax/swing/Action.class
+
+Name: javax/swing/AncestorNotifier.class
+
+Name: javax/swing/Autoscroller.class
+
+Name: javax/swing/Autoscroller$AutoScrollTimerAction.class
+
+Name: javax/swing/BoundedRangeModel.class
+
+Name: javax/swing/ButtonModel.class
+
+Name: javax/swing/CellRendererPane.class
+Java-Bean: True
+
+Name: javax/swing/CellRendererPane$AccessibleCellRendererPane.class
+
+Name: javax/swing/DebugGraphics.class
+Java-Bean: True
+
+Name: javax/swing/DebugGraphicsFilter.class
+
+Name: javax/swing/DebugGraphicsInfo.class
+
+Name: javax/swing/DebugGraphicsObserver.class
+
+Name: javax/swing/DefaultBoundedRangeModel.class
+Java-Bean: True
+
+Name: javax/swing/DefaultButtonModel.class
+Java-Bean: True
+
+Name: javax/swing/DefaultFocusManager.class
+Java-Bean: True
+
+Name: javax/swing/DefaultSingleSelectionModel.class
+Java-Bean: True
+
+Name: javax/swing/FocusManager.class
+Java-Bean: True
+
+Name: javax/swing/FocusManager$DisabledFocusManager.class
+
+Name: javax/swing/GraphicsWrapper.class
+
+Name: javax/swing/GrayFilter.class
+
+Name: javax/swing/Icon.class
+
+Name: javax/swing/ImageIcon.class
+Java-Bean: True
+
+Name: javax/swing/ImageIcon$1.class
+
+Name: javax/swing/JApplet.class
+Java-Bean: True
+
+Name: javax/swing/JApplet$AccessibleJApplet.class
+
+Name: javax/swing/JButton.class
+Java-Bean: True
+
+Name: javax/swing/JButton$AccessibleJButton.class
+
+Name: javax/swing/JComponent.class
+Java-Bean: True
+
+Name: javax/swing/JComponent$1.class
+
+Name: javax/swing/JComponent$AccessibleJComponent.class
+
+Name: javax/swing/JComponent$AccessibleJComponent$AccessibleContainerHandler.class
+
+Name: javax/swing/JComponent$EnableSerializationFocusListener.class
+
+Name: javax/swing/JComponent$IntVector.class
+
+Name: javax/swing/JComponent$KeyboardBinding.class
+
+Name: javax/swing/JComponent$KeyboardState.class
+
+Name: javax/swing/JComponent$ReadObjectCallback.class
+
+Name: javax/swing/JDesktopPane.class
+Java-Bean: True
+
+Name: javax/swing/JDesktopPane$AccessibleJDesktopPane.class
+
+Name: javax/swing/JDialog.class
+Java-Bean: True
+
+Name: javax/swing/JDialog$AccessibleJDialog.class
+
+Name: javax/swing/JFrame.class
+Java-Bean: True
+
+Name: javax/swing/JFrame$AccessibleJFrame.class
+
+Name: javax/swing/JInternalFrame.class
+Java-Bean: True
+
+Name: javax/swing/JInternalFrame$AccessibleJInternalFrame.class
+
+Name: javax/swing/JInternalFrame$JDesktopIcon.class
+
+Name: javax/swing/JInternalFrame$JDesktopIcon$AccessibleJDesktopIcon.class
+
+Name: javax/swing/JLabel.class
+Java-Bean: True
+
+Name: javax/swing/JLabel$AccessibleJLabel.class
+
+Name: javax/swing/JLayeredPane.class
+Java-Bean: True
+
+Name: javax/swing/JLayeredPane$AccessibleJLayeredPane.class
+
+Name: javax/swing/JMenu.class
+Java-Bean: True
+
+Name: javax/swing/JMenu$1.class
+
+Name: javax/swing/JMenu$AccessibleJMenu.class
+
+Name: javax/swing/JMenu$ActionChangedListener.class
+
+Name: javax/swing/JMenu$MenuChangeListener.class
+
+Name: javax/swing/JMenu$WinListener.class
+
+Name: javax/swing/JMenuBar.class
+Java-Bean: True
+
+Name: javax/swing/JMenuBar$AccessibleJMenuBar.class
+
+Name: javax/swing/JMenuItem.class
+Java-Bean: True
+
+Name: javax/swing/JMenuItem$1.class
+
+Name: javax/swing/JMenuItem$AccessibleJMenuItem.class
+
+Name: javax/swing/JMenuItem$MenuItemFocusListener.class
+
+Name: javax/swing/JOptionPane.class
+Java-Bean: True
+
+Name: javax/swing/JOptionPane$1.class
+
+Name: javax/swing/JOptionPane$2.class
+
+Name: javax/swing/JOptionPane$3.class
+
+Name: javax/swing/JOptionPane$AccessibleJOptionPane.class
+
+Name: javax/swing/JPanel.class
+Java-Bean: True
+
+Name: javax/swing/JPanel$AccessibleJPanel.class
+
+Name: javax/swing/JPasswordField.class
+Java-Bean: True
+
+Name: javax/swing/JPasswordField$AccessibleJPasswordField.class
+
+Name: javax/swing/JPopupMenu.class
+Java-Bean: True
+
+Name: javax/swing/JPopupMenu$1.class
+
+Name: javax/swing/JPopupMenu$2.class
+
+Name: javax/swing/JPopupMenu$AccessibleJPopupMenu.class
+
+Name: javax/swing/JPopupMenu$ActionChangedListener.class
+
+Name: javax/swing/JPopupMenu$JPanelPopup.class
+
+Name: javax/swing/JPopupMenu$PanelPopup.class
+
+Name: javax/swing/JPopupMenu$Popup.class
+
+Name: javax/swing/JPopupMenu$Separator.class
+Java-Bean: True
+
+Name: javax/swing/JPopupMenu$WindowPopup.class
+
+Name: javax/swing/JPopupMenu$WindowPopup$AccessibleWindowPopup.class
+
+Name: javax/swing/JRootPane.class
+Java-Bean: True
+
+Name: javax/swing/JRootPane$1.class
+
+Name: javax/swing/JRootPane$AccessibleJRootPane.class
+
+Name: javax/swing/JRootPane$DefaultAction.class
+
+Name: javax/swing/JRootPane$RootLayout.class
+
+Name: javax/swing/JSeparator.class
+Java-Bean: True
+
+Name: javax/swing/JSeparator$AccessibleJSeparator.class
+
+Name: javax/swing/JTextField.class
+Java-Bean: True
+
+Name: javax/swing/JTextField$AccessibleJTextField.class
+
+Name: javax/swing/JTextField$NotifyAction.class
+
+Name: javax/swing/JTextField$ScrollRepainter.class
+
+Name: javax/swing/JToolTip.class
+Java-Bean: True
+
+Name: javax/swing/JToolTip$AccessibleJToolTip.class
+
+Name: javax/swing/JViewport.class
+Java-Bean: True
+
+Name: javax/swing/JViewport$1.class
+
+Name: javax/swing/JViewport$AccessibleJViewport.class
+
+Name: javax/swing/JViewport$ViewListener.class
+
+Name: javax/swing/JWindow.class
+Java-Bean: True
+
+Name: javax/swing/JWindow$AccessibleJWindow.class
+
+Name: javax/swing/KeyStroke.class
+
+Name: javax/swing/KeyStroke$ModifierKeyword.class
+
+Name: javax/swing/KeyboardManager.class
+
+Name: javax/swing/KeyboardManager$ComponentKeyStrokePair.class
+
+Name: javax/swing/LookAndFeel.class
+Java-Bean: True
+
+Name: javax/swing/LookAndFeel$1.class
+
+Name: javax/swing/LookAndFeel$2.class
+
+Name: javax/swing/LookAndFeel$ModifierKeyword.class
+
+Name: javax/swing/MenuElement.class
+
+Name: javax/swing/MenuSelectionManager.class
+Java-Bean: True
+
+Name: javax/swing/MultiUIDefaults.class
+
+Name: javax/swing/MultiUIDefaults$MultiUIDefaultsEnumerator.class
+
+Name: javax/swing/OverlayLayout.class
+
+Name: javax/swing/RepaintManager.class
+Java-Bean: True
+
+Name: javax/swing/RootPaneContainer.class
+
+Name: javax/swing/Scrollable.class
+
+Name: javax/swing/SingleSelectionModel.class
+
+Name: javax/swing/SizeRequirements.class
+Java-Bean: True
+
+Name: javax/swing/SwingConstants.class
+
+Name: javax/swing/SwingGraphics.class
+
+Name: javax/swing/SwingUtilities.class
+
+Name: javax/swing/SwingUtilities$1.class
+
+Name: javax/swing/SwingUtilities$2.class
+
+Name: javax/swing/SwingUtilities$3.class
+
+Name: javax/swing/SystemEventQueueUtilities.class
+
+Name: javax/swing/SystemEventQueueUtilities$1.class
+
+Name: javax/swing/SystemEventQueueUtilities$ComponentWorkRequest.class
+
+Name: javax/swing/SystemEventQueueUtilities$RunnableCanvas.class
+
+Name: javax/swing/SystemEventQueueUtilities$RunnableCanvasGraphics.class
+
+Name: javax/swing/SystemEventQueueUtilities$RunnableEvent.class
+
+Name: javax/swing/SystemEventQueueUtilities$RunnableTarget.class
+
+Name: javax/swing/SystemEventQueueUtilities$SystemEventQueue.class
+
+Name: javax/swing/SystemEventQueueUtilities$TimerQueueRestart.class
+
+Name: javax/swing/Timer.class
+
+Name: javax/swing/Timer$DoPostEvent.class
+
+Name: javax/swing/TimerQueue.class
+
+Name: javax/swing/ToolTipManager.class
+
+Name: javax/swing/ToolTipManager$1.class
+
+Name: javax/swing/ToolTipManager$2.class
+
+Name: javax/swing/ToolTipManager$3.class
+
+Name: javax/swing/ToolTipManager$JPanelPopup.class
+
+Name: javax/swing/ToolTipManager$PanelPopup.class
+
+Name: javax/swing/ToolTipManager$Popup.class
+
+Name: javax/swing/ToolTipManager$WindowPopup.class
+
+Name: javax/swing/ToolTipManager$insideTimerAction.class
+
+Name: javax/swing/ToolTipManager$outsideTimerAction.class
+
+Name: javax/swing/ToolTipManager$stillInsideTimerAction.class
+
+Name: javax/swing/UIDefaults.class
+Java-Bean: True
+
+Name: javax/swing/UIDefaults$ActiveValue.class
+
+Name: javax/swing/UIDefaults$LazyValue.class
+
+Name: javax/swing/UIManager.class
+Java-Bean: True
+
+Name: javax/swing/UIManager$1.class
+
+Name: javax/swing/UIManager$2.class
+
+Name: javax/swing/UIManager$3.class
+
+Name: javax/swing/UIManager$LAFState.class
+
+Name: javax/swing/UIManager$LookAndFeelInfo.class
+
+Name: javax/swing/UnsupportedLookAndFeelException.class
+
+Name: javax/swing/ViewportLayout.class
+Java-Bean: True
+
+Name: javax/swing/WindowConstants.class
+
+Name: jserver/ClientManagerThread.class
+
+Name: jserver/ClientThread.class
+
+Name: jserver/ClientWatcherThread.class
+
+Name: jserver/LogFile.class
+
+Name: jserver/ServerThread.class
+Java-Bean: True
+
+Name: jserver/SpectrumClient.class
+
+Name: jserver/TelephonyApp.class
+Java-Bean: True
+
+Name: jserver/UserInterface.class
+
+Name: jserver/UserInterface$1.class
+
+Name: jserver/clsAppData.class
+
+Name: jserver/clsCall.class
+
+Name: jserver/clsLwnData.class
+
